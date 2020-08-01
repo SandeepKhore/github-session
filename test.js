@@ -15,7 +15,7 @@ if(currentBranch == 'master') {
     // if not (merge changes in master)
     // two ways to merge current branch in master
     // 1. git merge [branch-name]
-    // 
+    // 2. create a pull request merge changes in master pull the changes in master branch
 }
 
 
