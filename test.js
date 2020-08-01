@@ -17,3 +17,5 @@ if(currentBranch == 'master') {
     // 1. git merge [branch-name]
     // 
 }
+
+
